@@ -3,7 +3,8 @@
 This project focuses on optimizing Airbnb’s rental strategies by analyzing property data to provide actionable insights for both Airbnb and its hosts. Using **Tableau**, this project explores key metrics like neighborhood popularity, property type demand, customer satisfaction, seasonal trends, and the impact of amenities on pricing.
 
 ---
-
+Dataset Link: https://drive.google.com/file/d/1ltX1OMugXbAkc7CBJVlL1o5QAtZv31Rm/view?usp=sharing
+---
 ## 📋 **Objectives**
 
 ### **1. Neighborhood Popularity and Pricing**  
